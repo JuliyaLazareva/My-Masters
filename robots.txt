@@ -1,0 +1,7 @@
+User-agent: *
+
+Host: https://mymasters.by
+
+
+
+
